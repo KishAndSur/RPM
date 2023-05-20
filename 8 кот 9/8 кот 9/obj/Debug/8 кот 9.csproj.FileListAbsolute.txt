@@ -1,0 +1,10 @@
+D:\208\практ\8 кот 9\8 кот 9\bin\Debug\8 кот 9.exe.config
+D:\208\практ\8 кот 9\8 кот 9\bin\Debug\8 кот 9.exe
+D:\208\практ\8 кот 9\8 кот 9\bin\Debug\8 кот 9.pdb
+D:\208\практ\8 кот 9\8 кот 9\obj\Debug\8 кот 9.csprojAssemblyReference.cache
+D:\208\практ\8 кот 9\8 кот 9\obj\Debug\_8_кот_9.Form1.resources
+D:\208\практ\8 кот 9\8 кот 9\obj\Debug\_8_кот_9.Properties.Resources.resources
+D:\208\практ\8 кот 9\8 кот 9\obj\Debug\8 кот 9.csproj.GenerateResource.cache
+D:\208\практ\8 кот 9\8 кот 9\obj\Debug\8 кот 9.csproj.CoreCompileInputs.cache
+D:\208\практ\8 кот 9\8 кот 9\obj\Debug\8 кот 9.exe
+D:\208\практ\8 кот 9\8 кот 9\obj\Debug\8 кот 9.pdb
