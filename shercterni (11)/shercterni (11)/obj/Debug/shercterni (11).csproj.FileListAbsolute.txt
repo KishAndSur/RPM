@@ -1,0 +1,20 @@
+G:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\bin\Debug\shercterni (11).exe.config
+G:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\bin\Debug\shercterni (11).exe
+G:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\bin\Debug\shercterni (11).pdb
+G:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni (11).csprojAssemblyReference.cache
+G:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni__11_.Form1.resources
+G:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni__11_.Properties.Resources.resources
+G:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni (11).csproj.GenerateResource.cache
+G:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni (11).csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni (11).exe
+G:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni (11).pdb
+Y:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\bin\Debug\shercterni (11).exe.config
+Y:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\bin\Debug\shercterni (11).exe
+Y:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\bin\Debug\shercterni (11).pdb
+Y:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni (11).csprojAssemblyReference.cache
+Y:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni__11_.Form1.resources
+Y:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni__11_.Properties.Resources.resources
+Y:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni (11).csproj.GenerateResource.cache
+Y:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni (11).csproj.CoreCompileInputs.cache
+Y:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni (11).exe
+Y:\Общая для записи студентам\208\208 22-23\практ\shercterni (11)\shercterni (11)\obj\Debug\shercterni (11).pdb
